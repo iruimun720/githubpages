@@ -147,7 +147,7 @@ td {
     align-items: flex-start; 
 }
 
-.formulario, .ubicacion {
+.formulario, .ubicacion, .video, .himno {
     flex: 1; 
 }
 
